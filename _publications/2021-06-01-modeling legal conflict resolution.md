@@ -1,5 +1,5 @@
 ---
-title: 'Modeling Legal Conflict Resolution based on Dynamic Logic'
+title: "Modeling Legal Conflict Resolution based on Dynamic Logic"
 collection: publications
 category: manuscripts
 permalink: [/publication/2009-10-01-paper-title-number-1](https://doi.org/10.1093/logcom/exaa054)
