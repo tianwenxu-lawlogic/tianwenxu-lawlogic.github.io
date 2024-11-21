@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: tianwenxu-lawlogic.github.io/publications/
+    url: https://tianwenxu-lawlogic.github.io/publications/
 
   - title: "Talks"
     url: /talks/    
