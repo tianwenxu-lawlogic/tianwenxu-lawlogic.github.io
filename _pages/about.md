@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher woring at Guanghua Law School, Zhejiang University. I am also memeber of the Zhejiang University Law and AI Laboratory, and of the Zhejiang University-University of Luxembourg Joint Lab on Advanced Intelligent Systems and Reasoning.
+I am a postdoctoral researcher at Guanghua Law School, Zhejiang University, and member of the Zhejiang University Law and AI Laboratory.
 
-I have been working in the interdiscipinary field between law and logic. My research interests mainly lie in formal models of legal reasoning, based on modal logic or formal argumentation. Some specific topics include: dynamics of legal relations, multi-criteria legal decision making, normative multi-agent systems. I am also interested in legal and ethical issues of aritificial intelligence, especially formal frameworks for norm implementation among machine agents, as well as their ability to conduct normative reasoning.  
+I have been working in the interdisciplinary field between law and logic. My main research interests are computational legal theory, especially formal models of legal reasoning based on modal logic or formal argumentation. Some of my specific research topics include: legal knowledge representation, dynamics of legal relations, normative multi-agent systems, multi-criteria legal decision making. Besides logic, I am also interested in the legal and ethical issues of artificial intelligence, in particular formal frameworks for machine agents to conduct normative reasoning and to implement legal or moral norms among them.
+
 
 A data-driven personal website
 ======
