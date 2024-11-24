@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Law, China University of Political Science and Law, 2022
+* Visiting scholar, CIRSFID, University of Bologna, 2019-2020
 * M.S. in Law, Southwest University of Political Science and Law, 2017
 * B.S. in Law, Southwest University of Political Science and Law, 2014
 
