@@ -13,4 +13,4 @@ My research interests focus on computational legal theory, especially formal mod
 
 Currently I am leading the research project "Multi-criteria Decision Methods for Smart Justice" granted by Zhejiang Province Social Science Foundation. The project is mainly about assisting judicial decision making with multi-criteria decision methods. I have also been participating in another research project "Strategic Reasoning in Dynamic Context", granted by the National Social Science Foundation of China. 
 
-[Email](mailto:tianwen.xu@zju.edu.cn)/[Email](mailto:tianwen.xu@outlook.com)
+Contact me via: tianwen.xu@zju.edu.cn; tianwen.xu@outlook.com
