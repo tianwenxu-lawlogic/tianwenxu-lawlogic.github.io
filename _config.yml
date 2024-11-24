@@ -21,7 +21,7 @@ repository               : "tianwenxu-lawlogic/tianwenxu-lawlogic.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "tianwen.png"
+  avatar           : "tianwen2.png"
   name             : "Tianwen Xu"
   pronouns         : # example: "she/her"  
   bio              : "A researcher working on logics for legal reasoning"
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
