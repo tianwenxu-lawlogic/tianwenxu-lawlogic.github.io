@@ -2,7 +2,7 @@
 title: "Modeling dynamics of legal relations with dynamic logic"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1093/logcom/exac055
+permalink: 'https://doi.org/10.1093/logcom/exac055'
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-09-23
 venue: 'Journal of Logic and Computation'
