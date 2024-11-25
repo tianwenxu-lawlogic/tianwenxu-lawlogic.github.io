@@ -2,7 +2,7 @@
 title: "Modeling legal conflict resolution based on dynamic logic"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1093/logcom/exaa054
+permalink: 'https://doi.org/10.1093/logcom/exaa054'
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2020-09-29
 venue: 'Journal of Logic and Computation'
