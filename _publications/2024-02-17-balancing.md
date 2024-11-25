@@ -2,7 +2,7 @@
 title: "The Formal Rationality of Legal Balancing Methods: An Analysis based on Preference Aggregation"
 collection: publications
 category: manuscripts
-permalink: /publication/The Formal Rationality of Legal Balancing Methods: An Analysis based on Preference Aggregation
+permalink: /publication/The Formal Rationality of Legal Balancing Methods-An Analysis based on Preference Aggregation
 excerpt: 'In spired by social choice and multi-criteria decision theory, this paper formalizes legal balancing methods as functions of preference aggregation, and proposes a procedure for testing the formal rationality of these methods. This paper is in Chinese.'
 date: 2024-02-17
 venue: 'Studies in Logic, 17(2)'
