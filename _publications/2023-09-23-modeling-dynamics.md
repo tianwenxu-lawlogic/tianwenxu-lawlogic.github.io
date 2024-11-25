@@ -2,7 +2,7 @@
 title: "Modeling dynamics of legal relations with dynamic logic"
 collection: publications
 category: manuscripts
-permalink: '/publication/2024-02-17-paper-title-number-4'
+permalink: '/publication/Modeling dynamics of legal relations with dynamic logic'
 excerpt: 'This paper captures the dynamics of legal relations with propositional control and dynamic logic.'
 date: 2023-09-23
 venue: 'Journal of Logic and Computation, 34(2)'
