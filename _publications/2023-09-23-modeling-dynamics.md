@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: '/publication/Modeling dynamics of legal relations with dynamic logic'
 excerpt: 'This paper captures the dynamics of legal relations with propositional control and dynamic logic.'
-date: 2023-09-23
+date: 2024-06-01
 venue: 'Journal of Logic and Computation, 34(2)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://doi.org/10.1093/logcom/exac055'
