@@ -10,18 +10,8 @@ main:
 
   - title: "Talks"
     url: https://tianwenxu-lawlogic.github.io/talks/    
-
-  - title: "Teaching"
-    url: https://tianwenxu-lawlogic.github.io/teaching/    
-    
-  - title: "Portfolio"
-    url: https://tianwenxu-lawlogic.github.io/portfolio/
-        
-  - title: "Blog Posts"
-    url: https://tianwenxu-lawlogic.github.io/year-archive/
     
   - title: "CV"
     url: https://tianwenxu-lawlogic.github.io/cv/
     
-  - title: "Guide"
-    url: https://tianwenxu-lawlogic.github.io/markdown/
+
