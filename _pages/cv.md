@@ -18,9 +18,9 @@ Education
 
 Work experience
 ======
-* June, 2022 to now: Postdoctoral Researcher
-  * Guanghua Law School, Zhejiang University
-  * Duties includes: Updates and improvements to template
+* 2022 to now: Postdoctoral Researcher
+  * Affiliation: Guanghua Law School, Zhejiang University
+  #Duties includes: Research,Proposal Writing, Academic events organization
  
   
 Skills
