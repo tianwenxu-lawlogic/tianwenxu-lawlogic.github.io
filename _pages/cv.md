@@ -16,21 +16,14 @@ Education
 * M.S. in Law, Southwest University of Political Science and Law, 2017
 * B.S. in Law, Southwest University of Political Science and Law, 2014
 
+
 Work experience
 ======
 * 2022 to now: Postdoctoral Researcher
   * Affiliation: Guanghua Law School, Zhejiang University
+  * Duties include: Research, writing grant proposal, assisting supervision of graduate students, organizing academic event
   
- 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
