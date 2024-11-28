@@ -1,5 +1,5 @@
 ---
-title: "A Multi-agent Logic for Reasoning about Duties and Powers in Private Law"
+title: "Multi-agent Logic for Reasoning about Duties and Powers in Private Law"
 collection: talks
 type: "Talk"
 permalink: /talks/A Multi-agent Logic for Reasoning about Duties and Powers in Private Law
