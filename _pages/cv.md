@@ -12,17 +12,35 @@ redirect_from:
 Education
 ======
 * Ph.D in Law, China University of Political Science and Law, 2022
-* Visiting scholar, CIRSFID, University of Bologna, 2019-2020
 * M.S. in Law, Southwest University of Political Science and Law, 2017
 * B.S. in Law, Southwest University of Political Science and Law, 2014
 
 
-Work experience
+Academic visits
+======
+* CIRSFID, Department of Law, University of Bologna, 2019.09-2020.07
+* Department of Computer Science, University of Luxembourg, 2024.10.13-31
+
+
+Jobs
 ======
 * 2022 to now: Postdoctoral Researcher
   * Affiliation: Guanghua Law School, Zhejiang University
-  * Duties include: Research, writing grant proposal, assisting supervision of graduate students, organizing academic event
+  * Duties include: Research, writing grant proposal, assisting supervision of graduate students, organizing academic events
   
+
+Research projects
+======
+* Coordinator of the project "Multi-criteria Decision Methods for Smart Justice", granted by the Social Science Foundation of Zhejiang Province.
+* Participation in the project "Strategic Reasoning in Dynamic Context", granted by the National Social Science Foundation of China (coordinator: Fengkui Ju, Beijing Normal University).
+
+
+Academic service
+======
+* 2023 to now: Executive editor of the book series <i> Law and Artificial Intelligence </i>, published by Huazhong University of Science and Technology Press
+* 2023: Local Chair of Zhejiang University Logic and AI Summit (ZJULogAI 2023), and of the satellite event International Workshop on Logic, AI and Law
+* 2022: Local Chair of the Winter School on AI and Law, hosted at Guanghua Law School, Zhejiang University. More than 300 participants nation-wide!
+* 2022: Program committee member of the 16th National Conference on Modern Logic
 
 
 Publications
@@ -30,6 +48,7 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
 Talks
 ======
