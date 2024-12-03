@@ -12,14 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Law, China University of Political Science and Law, 2022
-* M.S. in Law, Southwest University of Political Science and Law, 2017
-* B.S. in Law, Southwest University of Political Science and Law, 2014
-
-
-Academic visits
-======
-* CIRSFID, Department of Law, University of Bologna, 2019.09-2020.07
-* Department of Computer Science, University of Luxembourg, 2024.10.13-31
+* Master in Law, Southwest University of Political Science and Law, 2017
+* Bachelor in Law, Southwest University of Political Science and Law, 2014
 
 
 Jobs
@@ -27,7 +21,13 @@ Jobs
 * 2022 to now: Postdoctoral Researcher
   * Affiliation: Guanghua Law School, Zhejiang University
   * Duties include: Research, writing grant proposal, assisting supervision of graduate students, organizing academic events
-  
+
+
+Academic visits
+======
+* CIRSFID, Department of Law, University of Bologna, 2019.09-2020.07, visiting scholar
+* Department of Computer Science, University of Luxembourg, 2024.10.13-10.31, visiting scholar
+
 
 Research projects
 ======
