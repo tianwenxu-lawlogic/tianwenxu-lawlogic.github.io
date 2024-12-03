@@ -33,7 +33,7 @@ Academic service
 ======
 * 2023 to now: Executive editor of the book series <i> Law and Artificial Intelligence </i>, published by Huazhong University of Science and Technology Press
 * 2023: Local Chair of Zhejiang University Logic and AI Summit (ZJULogAI 2023), and of the satellite event International Workshop on Logic, AI and Law
-* 2022: Local Chair of the Winter School on AI and Law, hosted at Guanghua Law School, Zhejiang University. More than 300 participants nation-wide!
+* 2022: Local Chair of the Winter School on AI and Law, hosted at Guanghua Law School, Zhejiang University. More than 300 participants nationwide!
 * 2022: Program committee member of the 16th National Conference on Modern Logic
 
 
