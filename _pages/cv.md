@@ -29,18 +29,18 @@ Academic visits
 * Department of Computer Science, University of Luxembourg, 2024.10.13-10.31, visiting scholar
 
 
-Research projects
-======
-* Coordinator of the project "Multi-criteria Decision Methods for Smart Justice", granted by the Social Science Foundation of Zhejiang Province.
-* Participation in the project "Strategic Reasoning in Dynamic Context", granted by the National Social Science Foundation of China (coordinator: Fengkui Ju, Beijing Normal University).
-
-
 Academic service
 ======
 * 2023 to now: Executive editor of the book series <i> Law and Artificial Intelligence </i>, published by Huazhong University of Science and Technology Press
 * 2023: Local Chair of Zhejiang University Logic and AI Summit (ZJULogAI 2023), and of the satellite event International Workshop on Logic, AI and Law
 * 2022: Local Chair of the Winter School on AI and Law, hosted at Guanghua Law School, Zhejiang University. More than 300 participants nation-wide!
 * 2022: Program committee member of the 16th National Conference on Modern Logic
+
+
+Research projects
+======
+* Coordinator of the project "Multi-criteria Decision Methods for Smart Justice", granted by the Social Science Foundation of Zhejiang Province.
+* Participation in the project "Strategic Reasoning in Dynamic Context", granted by the National Social Science Foundation of China (coordinator: Fengkui Ju, Beijing Normal University).
 
 
 Publications
