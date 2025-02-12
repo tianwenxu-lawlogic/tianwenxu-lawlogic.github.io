@@ -15,7 +15,7 @@ My research interests are logics for computational legal theory, including:
 
 (2) Normative multi-agent system, especially introducing legal concepts for multi-agent systems, by which more subtle normative positions between agents can be defined; 
 
-(3) Decision under uncertainty, especially when multiple criteria or belief dynamics is involved, which in turn requires rational decision methods or rational models of belief change. 
+(3) Decision under uncertainty, especially when multiple criteria or belief dynamics is involved, which in turn requires rational decision methods, rational models of belief change or non-monotonic reasoning mechanism. 
 
 Besides, I am also interested in the legal and ethical issues of artificial intelligence, in particular formal frameworks for machine agents to conduct normative reasoning and to implement legal or moral norms among them.
 
