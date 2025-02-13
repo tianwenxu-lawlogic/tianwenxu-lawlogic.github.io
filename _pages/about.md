@@ -9,7 +9,7 @@ redirect_from:
 
 I am a postdoctoral researcher at the Guanghua Law School, Zhejiang University. I am also member of the Zhejiang University Law and AI Laboratory, and member of the Zhejiang University-University of Luxembourg Joint Lab on Advanced Intelligent Systems and Reasoning. 
 
-My research interests are logics for computational legal theory, including: 
+My research interests are logics for computational legal theory. Some of my recent research topics are: 
 
 (1) Logic of action, especially dynamic logic that can capture different types of agents’ actions and their nonphysical effects (e.g., normative effects, which are independent of what the world is); 
 
