@@ -1,11 +1,11 @@
 ---
-title: "The Formal Rationality of Legal Balancing Methods: An Analysis based on Preference Aggregation"
+title: "法律权衡方法的形式理性——基于偏好聚合的分析(The Formal Rationality of Legal Balancing Methods: An Analysis based on Preference Aggregation)"
 collection: publications
 category: manuscripts
 permalink: /publication/The Formal Rationality of Legal Balancing Methods-An Analysis based on Preference Aggregation
 excerpt: 'Inspired by social choice and multi-criteria decision theory, this paper formalizes legal balancing methods as functions of preference aggregation, and proposes a procedure for testing their formal rationality. This paper is in Chinese.'
 date: 2024-02-17
-venue: 'Studies in Logic, 17(2)'
+venue: '逻辑学研究(Studies in Logic), 17(2)'
 paperurl: 'https://studiesinlogic.sysu.edu.cn/zh-hans/article/276'
 citation: 'Tianwen Xu. (2024). &quot;The Formal Rationality of Legal Balancing Methods: An Analysis based on Preference Aggregation.&quot; <i>Studies in Logic</i>. 17(2).'
 ---
