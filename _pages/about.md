@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the Guanghua Law School, Zhejiang University. I am also member of the Zhejiang University Law and AI Laboratory, and member of the Zhejiang University-University of Luxembourg Joint Lab on Advanced Intelligent Systems and Reasoning. 
+I am a postdoctoral researcher at the School of Philosophy, Nanjing University. I am also member of the Zhejiang University Law and AI Lab, and member of the Zhejiang University-University of Luxembourg Joint Lab on Advanced Intelligent Systems and Reasoning. 
 
 My research interests are logics for computational legal theory. Some of my recent research topics are: 
 
@@ -20,6 +20,6 @@ My research interests are logics for computational legal theory. Some of my rece
 Besides, I am also interested in the legal and ethical issues of artificial intelligence, in particular formal frameworks for machine agents to conduct normative reasoning and to implement legal or moral norms among them.
 
 
-Currently I am leading the research project "Multi-criteria Decision Methods for Smart Justice" granted by Zhejiang Province Social Science Foundation. I have also been participating in another research project "Strategic Reasoning in Dynamic Context", granted by the National Social Science Foundation of China. 
+Currently I am leading the research project "Integrating Large Language Model and Theories of Legal Reasoning", granted by the National Social Science Foundation of China (No.25CFX003). 
 
-Contact me via: tianwen.xu@zju.edu.cn; tianwen.xu@outlook.com
+Contact me via: tianwen.xu@nju.edu.cn; tianwen.xu@outlook.com
