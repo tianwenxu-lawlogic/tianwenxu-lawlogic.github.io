@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Tianwen Xu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Tianwen Xu"
-description              : &description "Postdoctoral Researcher at Zhejiang University"
+description              : &description "Postdoctoral Researcher at Nanjing University"
 url                      : https://tianwenxu-lawlogic.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tianwenxu-lawlogic/tianwenxu-lawlogic.github.io"
@@ -25,10 +25,10 @@ author:
   name             : "Tianwen Xu"
   pronouns         : # example: "she/her"  
   bio              : "A researcher in logics for computational legal theory"
-  location         : "Hangzhou, China"
-  employer         : "Zhejiang University"
+  location         : "Nanjing, China"
+  employer         : "Nanjing University"
   uri              : # URL
-  email            : "tianwen.xu@zju.edu.cn" 
+  email            : "tianwen.xu@nju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
