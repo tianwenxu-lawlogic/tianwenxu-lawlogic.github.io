@@ -18,10 +18,9 @@ Education
 
 Jobs
 ======
-* 2022 to now: Postdoctoral Researcher
-  * Affiliation: Guanghua Law School, Zhejiang University
-  * Duties include: Research, writing grant proposal, assisting supervision of graduate students, organizing academic events
-
+* 2022 to 2025: Postdoctoral Researcher, Guanghua Law School, Zhejiang University
+  
+* 2025 to now: Postdoctoral Researcher, School of Philosophy, Nanjing University
 
 Academic visits
 ======
@@ -39,8 +38,9 @@ Academic service
 
 Research projects
 ======
-* Coordinator of the project "Multi-criteria Decision Methods for Smart Justice", granted by the Social Science Foundation of Zhejiang Province.
-* Participation in the project "Strategic Reasoning in Dynamic Context", granted by the National Social Science Foundation of China (coordinator: Fengkui Ju, Beijing Normal University).
+* Leader of the project "Integrating Large Language Model and Theories of Legal Reasoning", granted by the National Social Science Foundation of China (No.25CFX003), 2025-now. 
+* Leader of the project "Multi-criteria Decision Methods for Smart Justice", granted by the Social Science Foundation of Zhejiang Province, 2023-2025. 
+* Participation in the project "Strategic Reasoning in Dynamic Context", granted by the National Social Science Foundation of China (Project Leader: Fengkui Ju, Beijing Normal University).
 
 
 Publications
